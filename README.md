@@ -7,6 +7,7 @@ Algum tempo atrás foi necessario exibir alguns banners de blogs parceiros no pv
 Cada imagem possui um hyperlink associado
 
 /* Neste trecho você indica a url da imagem */
+
 var random_images_array = ['URL_IMAGEM1', 'URL_IMAGEM2', 'URL_IMAGEM3'];
 
 

@@ -7,7 +7,7 @@
   var num = Math.floor(Math.random() * random_images_array.length);
   var img = random_images_array[ num ];
   var link = random_link_array [ num ];
-  var imgStr = '<a href="'+ link + '" target="_blank"><img src="'+ img + '"/></a>
+  var imgStr = '<a href="'+ link + '" target="_blank"><img src="'+ img + '"/></a>';
   
   document.getElementById("demo").innerHTML = imgStr;
 </script>
